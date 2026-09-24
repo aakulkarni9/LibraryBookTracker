@@ -1,0 +1,3 @@
+month 1:
+books lent: 70
+fine collected: 1500
